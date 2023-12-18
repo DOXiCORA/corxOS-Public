@@ -10,6 +10,6 @@ Welcome to XCOREOS, a modern operating system designed for speed, stability, and
 - **Compatibility**: Supports a wide range of software and hardware.
 - **Customizability**: Highly customizable to fit your personal or organizational needs.
 
-- ## Contributing
+## Contributing
 
 We welcome contributions to XCOREOS!
