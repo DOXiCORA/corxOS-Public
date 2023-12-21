@@ -1,6 +1,6 @@
-# xcoreOS//PUBLIC
+# corxOS//PUBLIC
 
-Welcome to xcoreOS, a modern operating system designed for speed, stability, and security. NewOS is built to provide an intuitive user experience with a focus on productivity and efficiency.
+Welcome to corxOS, a modern operating system designed for speed, stability, and security. NewOS is built to provide an intuitive user experience with a focus on productivity and efficiency.
 
 ## Features
 
@@ -12,4 +12,4 @@ Welcome to xcoreOS, a modern operating system designed for speed, stability, and
 
 ## Contributing
 
-We welcome contributions to xcoreOS!
+We welcome contributions to corxOS!
