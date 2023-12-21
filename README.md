@@ -1,6 +1,7 @@
 # corxOS//PUBLIC
 
-Welcome to corxOS, a modern operating system designed for speed, stability, and security. NewOS is built to provide an intuitive user experience with a focus on productivity and efficiency.
+Welcome to corxOS, a modern operating system designed for speed, stability, and security.
+newOS is built to provide an intuitive user experience with a focus on productivity and efficiency.
 
 ## Features
 
